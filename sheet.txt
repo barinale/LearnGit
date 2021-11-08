@@ -1,0 +1,7 @@
+git remote :displas are remote 
+git remote -v show location where fetch and pull happping
+
+git fetch : to git last update or new commit in remote respority
+        then you ca do git merge origin/master
+
+git pull do git fatch and git merge at same command        
